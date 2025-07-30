@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import openpyxl
 
 # App title
 st.set_page_config(page_title="Excel Data Visualizer", layout="wide")
